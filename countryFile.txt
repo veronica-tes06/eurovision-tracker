@@ -1,0 +1,37 @@
+Ireland:EMMY:8:1st:19:8:False:1:
+Albania:Shkodra Elektronike:0:5th:20:10:False:2:
+Armenia:PARG:0:4th:16:12:False:1:
+Australia:Go-Jo:0:2nd:9:6:False:2:
+Austria:JJ:2:1st:15:7:False:1:
+Azerbaijan:Mamagama:1:1st:16:12:False:2:
+Belgium:Red Sebastian:1:1st:20:8:False:1:
+Croatia:Marko Bošnjak:0:2nd:18:8:False:2:
+Cyprus:Theo Evan:0:2nd:19:11:False:1:
+Czechia:ADONXS:0:6th:13:5:False:2:
+Denmark:Sissal:3:1st:19:10:False:1:
+Estonia:Tommy Cash:1:1st:21:10:False:2:
+Finland:Erika Vikman:1:1st:20:11:False:1:
+France:Louane:5:1st:21:21:True:0:
+Georgia:Mariam Shengelia:0:9th:17:8:False:2:
+Germany:Abor & Tynna:2:1st:21:21:True:0:
+Greece:Klavdia:1:1st:18:14:False:1:
+Iceland:Vaeb:0:2nd:20:10:False:2:
+Israel:Yuval Raphael:4:1st:19:11:False:1:
+Italy:Lucio Corsi:3:1st:21:21:True:0:
+Latvia:Tautumeitas:1:1st:20:6:False:2:
+Lithuania:Katarsis:0:6th:20:12:False:1:
+Luxembourg:Laura Thorn:5:1st:2:1:False:2:
+Malta:Miriana Conte:0:2nd:19:8:False:1:
+Montenegro:Nina Zizic:0:13th:13:2:False:2:
+Netherlands:Claude:5:1st:20:10:False:1:
+Norway:Kyle Alessandro:3:1st:18:14:False:2:
+Poland:Justyna Stecz:0:2nd:18:7:False:1:
+Portugal:NAPA:1:1st:18:8:False:2:
+San Marino:Gabry Ponte:0:19th:15:3:False:1:
+Serbia:Princ:1:1st:16:12:False:2:
+Slovenia:Klemen:0:7th:21:8:False:1:
+Spain:Melody:2:1st:21:21:True:0:
+Sweden:KAJ:7:1st:15:13:False:2:
+Switzerland:Zoe Me:3:1st:20:8:False:1:
+Ukraine:Ziferblat:3:1st:15:14:False:2:
+United Kingdom:Remember Monday:5:1st:21:21:True:0:
