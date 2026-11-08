@@ -1,4 +1,4 @@
-Ireland:EMMY:8:1st:19:8:False:1:
+Ireland:EMMY:7:1st:19:8:False:1:
 Albania:Shkodra Elektronike:0:5th:20:10:False:2:
 Armenia:PARG:0:4th:16:12:False:1:
 Australia:Go-Jo:0:2nd:9:6:False:2:

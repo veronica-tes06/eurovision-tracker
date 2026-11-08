@@ -1,3 +1,4 @@
+"""Data model for the Eurovision 2025 Tracker."""
 
 
 class CountryInputError(Exception):
@@ -16,12 +17,6 @@ class Country:
         self.__quals = quals
         self.__autoqual = autoqual
         self.__semifinal = semifinal
-
-    def resetAll(self):
-        self.__points = 0
-        self.__played = 0
-        self.__wins = 0
-        self.__goals = 0
 
     def getContestant(self):
         return self.__contestant
@@ -48,7 +43,7 @@ class Country:
         return self.__semifinal
 
     def getPercentQuals(self):
-        if (self.__quals)==0:
+        if self.__parts == 0:
             return 0
         else:
             return int(100 * (self.__quals / self.__parts))
